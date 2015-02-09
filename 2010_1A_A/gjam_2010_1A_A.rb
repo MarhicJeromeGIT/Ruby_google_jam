@@ -1,4 +1,4 @@
-# This is my submission for gjam 2010 1A
+# This is my submission for gjam 2010 1A Problem A. Rotate
 # https://code.google.com/codejam/contest/544101/dashboard#s=p0
 #
 # ruby gjam_2010_1A input.txt output.txt

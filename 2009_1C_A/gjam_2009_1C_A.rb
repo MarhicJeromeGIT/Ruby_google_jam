@@ -1,4 +1,4 @@
-# This is my submission for gjam 2009 1C
+# This is my submission for gjam 2009 1C Problem A. All Your Base
 # https://code.google.com/codejam/contest/189252/dashboard#s=p0
 #
 # ruby gjam_2009_1C input.txt output.txt
